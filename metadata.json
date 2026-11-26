@@ -1,0 +1,6 @@
+{
+  "name": "Cartoon Spark AI",
+  "description": "YouTube Automation AI Studio for Cartoon Spark — generating original Urdu cartoon stories, 60-second Shorts scripts, 8-scene storyboards, image prompts, Urdu voiceovers, thumbnails, and video editing plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
